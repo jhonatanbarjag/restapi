@@ -1,4 +1,4 @@
-import { User } from "../schema/user.schema";
+import { User } from "../schema/user.schema.js";
 
 export const userRepository = {
   create: async (userData) => { //esto hace que se cree un nuevo usuario en la base de datos
