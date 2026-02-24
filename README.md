@@ -20,33 +20,33 @@ src/
 
 🛠️ Tecnologías Utilizadas
 
-Node.js – Entorno de ejecución
-Express – Framework para crear la API
-MongoDB – Base de datos NoSQL
-Mongoose – ODM para MongoDB
-Morgan – Middleware para registrar las peticiones HTTP
-Postman – Pruebas de la API
+- Node.js – Entorno de ejecución
+- Express – Framework para crear la API
+- MongoDB – Base de datos NoSQL
+- Mongoose – ODM para MongoDB
+- Morgan – Middleware para registrar las peticiones HTTP
+- Postman – Pruebas de la API
 
 📡 Registro de Peticiones (Morgan)
 Se utilizó Morgan para visualizar en consola todas las solicitudes HTTP entrantes, lo que permite:
 
-Ver métodos (GET, POST, PUT, DELETE)
-Ver rutas solicitadas
-Controlar el estado de las respuestas
-Facilitar el debugging
+- Ver métodos (`GET`, `POST`, `PUT`, `DELETE`)
+- Ver rutas solicitadas
+- Controlar el estado de las respuestas
+- Facilitar el debugging
 
 🧪 Pruebas con Postman
 
-Todas las rutas fueron probadas mediante Postman
-No se incluye interfaz gráfica (Frontend)
-La API responde en formato JSON
+- Todas las rutas fueron probadas mediante Postman
+- No se incluye interfaz gráfica (Frontend)
+- La API responde en formato JSON
 
 📌 Estado del Proyecto
 
-✅ Backend funcional
-✅ Arquitectura organizada
-✅ Conexión a MongoDB
-✅ Pruebas realizadas con Postman
+- ✅ Backend funcional  
+- ✅ Arquitectura organizada  
+- ✅ Conexión a MongoDB  
+- ✅ Pruebas realizadas con Postman 
 
 
 
