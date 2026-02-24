@@ -8,6 +8,7 @@ Las pruebas y validaciones de los endpoints se realizaron exclusivamente mediant
 
 El proyecto sigue una arquitectura modular y escalable, separando responsabilidades para facilitar el mantenimiento y crecimiento del sistema.
 
+```
 src/
 ├── config/        # Configuración general (DB, variables de entorno, etc.)
 ├── controllers/   # Lógica de negocio y manejo de peticiones HTTP
@@ -15,6 +16,7 @@ src/
 ├── routes/        # Definición de rutas/endpoints
 ├── schema/        # Esquemas de MongoDB (Mongoose)
 └── app.js         # Configuración e inicialización del servidor Express
+```
 
 🛠️ Tecnologías Utilizadas
 
